@@ -1,1 +1,1 @@
-# Die in Straight-A gespeicherten Daten werden auf dem Gerät oder in der iCloud gespeichert.
+# The data in Straight-A is saved on device or in the iCloud.
